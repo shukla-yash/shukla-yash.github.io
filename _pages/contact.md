@@ -11,5 +11,3 @@ redirect_from:
 
 
 Email: yshukla AT wpi DOT edu
-
-LinkedIn: www.linkedin.com/in/yashshukla
