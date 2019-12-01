@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Contact"
 permalink: /contact/
 author_profile: true
 redirect_from:
@@ -8,3 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Email
+======
+yshukla AT wpi DOT edu
+
+LinkedIn
+======
+www.linkedin.com/in/yashshukla
