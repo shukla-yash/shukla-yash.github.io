@@ -12,4 +12,4 @@ redirect_from:
 
 Email: yshukla AT wpi DOT edu
 
-[LinkedIn](http://academicpages.github.io/files/paper1.pdf)
+[LinkedIn](www.linkedin.com/in/yashshukla)
