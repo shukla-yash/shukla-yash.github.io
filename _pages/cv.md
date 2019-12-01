@@ -23,7 +23,7 @@ Skills
 * Programming: Python, C/C++, MATLAB
 * Tools:
     * Deep Learning frameworks: PyTorch, Tensorflow, Keras
-    * Simulation softwares: Gazebo, OpenRave, OpenAI gym, Ansys
+    * Simulation softwares: Gazebo, OpenRave, OpenAI gym, Ansys, SolidWorks
     * Libraries: OpenCV, Point Cloud Library, scikit-learn
     * Robotic Framework: Robot Operating System
 * Courses: Deep Learning for Advanced Robot Perceptioin, Artificial Intelligence, Robot Dynamics, Robot Control
