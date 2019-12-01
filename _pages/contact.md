@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Email
-======
-yshukla AT wpi DOT edu
+
+Email: yshukla AT wpi DOT edu
 
 
 [LinkedIn] www.linkedin.com/in/yashshukla
