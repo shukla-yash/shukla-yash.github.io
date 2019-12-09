@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Grasp Synthesis by employing active vision techniques
+------
+It fascinates me how something as fundamental as manipulation and grasping can be difficult for robots. For this, I aspire to pioneer innovative techniques that would facilitate smarter decision making for dextrous robotic manipulation. As a first step towards this goal, I have been working with Professor Berk Calli, WPI in the Manipulation laboratory for the past eight months. The research problem that I have been working on is utilizing active vision techniques to make a manipulator explore an object in the fewest number of steps possible. The aim is to obtain a rich enough pointcloud data to grasp an object.
+
+A real-time implementation of the algorithm in shown below.
+
+The robot arm successfully finds a graspable pose in a single action.
+
+{% include youtube3.html id="ztQclzpAqgU" %}
+
+
 Ship Detection and Segmentation from Satellite Imagery
 ------
 This study aims at segmenting instances of ships from an aerial image. Till date, no metric exists which aims at segmenting ships from aerial imagery. My approach to the problem involves cascading U-Nets for image segmentation, which is based on the idea of iterative refinement. A typical U-Net architecture consists of a convolutional neural network which acts like a decoder followed by an up-sampling deconvolutional network acting like an encoder to segment our object in question, ships.
