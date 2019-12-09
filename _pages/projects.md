@@ -36,4 +36,4 @@ The system architecture is displayed below.
 A real-time implementation of the algorithm in 1D and 2D is shown below.
 
 {% include youtube.html id="2nAtnv_QI_E" %}
-{% include youtube.html id="vJgotA4i88Q" %}
+{% include youtube2.html id="vJgotA4i88Q" %}
