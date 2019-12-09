@@ -40,3 +40,25 @@ ___
 A real-time implementation of the algorithm in 2D is shown below.
 
 {% include youtube2.html id="vJgotA4i88Q" %}
+
+Perception-Action Coordination
+------
+Shared autonomous task require perception collaborate with action properly. Recent approaches in robot
+perception follow the insight that perception is facilitated by
+interaction with the environment. In this paper, we design an
+experimental study aimed at understanding human preference
+in the selection and control of wearable cameras. The study
+help us comprehend how a perfect robot, a human, would act
+in situations when the human’s vision system gets restricted
+either by limiting the degrees of freedom, field of view available
+or the depth resolution available for perception.
+
+Project team members: Yash Shukla, Alexandra Valiton, Hanqing Zhang, Hanshen Yu
+
+Experiment configuration is displayed below.
+
+<p align="center">
+  <img src="https://shukla-yash.github.io/images/Experiment_synergy.png?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+
