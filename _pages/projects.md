@@ -30,9 +30,10 @@ Project team members: Yash Shukla, Shubham Jain
 The system architecture is displayed below.
 
 <p align="center">
-  <img src="https://shukla-yash.github.io/images/Controls_project.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://shukla-yash.github.io/images/Controls_project.png?raw=true" alt="Photo" style="width: 650px;"/> 
 </p>
 
 A real-time implementation of the algorithm in 1D and 2D is shown below.
 
 {% include youtube.html id="2nAtnv_QI_E" %}
+{% include youtube.html id="vJgotA4i88Q" %}
