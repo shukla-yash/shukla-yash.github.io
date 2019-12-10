@@ -11,14 +11,14 @@ redirect_from:
 
 
 Education
-======
+------
 
 * Master of Science in Robotics, WPI, 2020 (expected)
 * Bachelor of Engineering in Mechanical Engineering, BITS Pilani, India (2018)
 
 
 Skills
-======
+------
 
 * Programming: Python, C/C++, MATLAB
 * Tools:
@@ -30,7 +30,7 @@ Skills
 
 
 Experience
-======
+------
 
 * Peer Learning Assistant, Physics Department, WPI (Aug '19 - Present)
   * Conduct lab sessions for PH 1110 (General Physics : Mechanics) and PH 1120 (Electricity and Magnetism)
@@ -38,7 +38,7 @@ Experience
   * Teaching Python to Physics majors.
 
 
-* MathWorks, Natick, MA (May '19 - Aug '19)
+* Computer Vision Group, MathWorks, Natick, MA (May '19 - Aug '19)
   * Formulated an innovative CV algorithm to improve accuracy of camera calibration parameters for Fisheye Cameras.
   * The Checkerboard Detection algorithm designed for Fisheye Cameras had better true positive detection even for imagesfrom     Pinhole and Stereo Cameras.
   * Achieved better checkerboard detection precision (98 %) as compared to the existing technique (83 %).
@@ -51,7 +51,7 @@ Experience
   
 
 Projects
-======
+------
 * Learning based Motion Planning for Manipulators, WPI (Aug '19 - Present)
   * Designing and applying DDPG to a 4 DOF manipulator to achieve motion planning faster than RRT.
   * Adding expert demonstrations in the DDPG implementation to achieve faster convergence.
@@ -79,7 +79,7 @@ Projects
   * Computed the location of the anomaly present on the pavement which was later transmitted to a ground robot for non-           destructive testing.
   
 Service and leadership
-======
+------
 
 * Image Processing Lead and Treasurer of Radio Control Club, BITS Pilani.
 * Contributed in organizing workshops as a student member for the American Society of Mechanical Engineers. (ASME).
