@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yash Shukla"
-  avatar           : "https://shukla-yash.github.io/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Masters student,Robotics Engineering, WPI"
   location         : "Worcester, MA"
   employer         :
