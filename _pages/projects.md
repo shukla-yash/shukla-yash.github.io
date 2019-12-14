@@ -16,11 +16,9 @@ It fascinates me how something as fundamental as manipulation and grasping can b
 A real-time implementation of the algorithm in shown below.
 
 The robot arm successfully finds a graspable pose in a single action fed by a SVM model.
-
 {% include youtube3.html id="ztQclzpAqgU" %}
 
 The robot arm successfully finds a graspable pose in a three actions fed by a trained SVM model.
-
 {% include youtube4.html id="USH1_8EFuaY" %}
 
 Ship Detection and Segmentation from Satellite Imagery
