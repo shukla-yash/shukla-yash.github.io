@@ -12,27 +12,33 @@ redirect_from:
 
 Education
 ------
-
-* Master of Science in Robotics, WPI, 2020 (expected)
+* Ph.D., Computer Science, Tufts University (Ongoing)
+* Master of Science in Robotics, WPI, (2020) 
 * Bachelor of Engineering in Mechanical Engineering, BITS Pilani, India (2018)
 
 
 Skills
 ------
 
-* Programming: Python, C/C++, MATLAB
+* Programming: Python, C/C++, MATLAB, JAVA
 * Tools:
     * Deep Learning frameworks: PyTorch, Tensorflow, Keras
-    * Simulation softwares: Gazebo, OpenRave, OpenAI gym, Ansys, SolidWorks
+    * Simulation softwares: Gazebo, OpenRave, OpenAI gym, MUJOCO, Ansys, SolidWorks
     * Libraries: OpenCV, Point Cloud Library, scikit-learn
-    * Robotic Framework: Robot Operating System
-* Courses: Deep Learning for Advanced Robot Perceptioin, Artificial Intelligence, Robot Dynamics, Robot Control
+    * Robotic Framework: Robot Operating System, PyBullet
+* Courses: Reinforcement Learning, Proboabilistic Robotics, Deep Learning for Advanced Robot Perceptioin, Artificial Intelligence, Robot Dynamics, Robot Control
 
 
 Experience
 ------
+* Research Assistant, Computer Science Department, Tufts University (Feb '20 - Present)
 
-* Peer Learning Assistant, Physics Department, WPI (Aug '19 - Present)
+
+* Teaching Assistant, Computer Science Department, Tufts University (Aug '20 - Dec '20)
+  * TA for COMP 150 (Big Data)
+
+
+* Peer Learning Assistant, Physics Department, WPI (Aug '19 - Dec '19)
   * Conduct lab sessions for PH 1110 (General Physics : Mechanics) and PH 1120 (Electricity and Magnetism)
   * Tutor Active Learning Physics Course (PH 1110). 
   * Teaching Python to Physics majors.
