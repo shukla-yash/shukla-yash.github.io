@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+Email is the best way to contact me. 
 
-Email: yshukla AT wpi DOT edu
+My email ID is: yash DOT shukla AT tufts DOT edu
