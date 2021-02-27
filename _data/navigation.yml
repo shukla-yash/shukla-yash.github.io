@@ -1,14 +1,14 @@
 # main links links
 main:
 
-  - title: "Projects"
-    url: /projects/
-            
+  - title: "Publications"
+    url: /publications/
+
   - title: "CV"
     url: /files/Yash_CV.pdf
+
+  - title: "Projects"
+    url: /projects/
     
   - title: "Contact"
     url: /contact/
-    
-  - title: "Publications"
-    url: /publications/
