@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-<b> 2020: </b>
+<b> 2021: </b>
 
 
 <b> Yash Shukla </b>, Gyan Tatiya and Jivko Sinapov <br>
@@ -14,7 +14,7 @@ A Framework for Curriculum Transfer from Simple to Complex Environments<br>
 <i> Under review at International Joint Conference on Artificial Intelligence (IJCAI) 2021. </i>
 
 
-<b> 2019: </b>
+<b> 2020: </b>
 
 
 Gyan Tatiya, <b>Yash Shukla</b>, Michael Edegware and Jivko Sinapov <br>
