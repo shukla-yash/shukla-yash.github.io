@@ -14,6 +14,7 @@ I am a First Year Graduate Student pursuing PhD in Computer Science at Tufts Uni
 My primary focus of interest lies in applications of Reinforcement Learning and Deep Neural Networks to solve problems in the real world. Current techniques to achieve autonomy rely heavily on availability of large sample size, which is unrealistic in most settings. My research at Tufts aims at leveraging efficient transfer learning, to bridge the gap between simulations and reality, enabling quicker and robust learning. These techniques will benefit search-and-rescue operations, and medical applications, to name a few. 
 
 
-I'm on the job market for summer research internship in Robotics with applications in reinforcement learning, artificial intelligence and robot vision.
+**I'm on the job market for summer research internship in Robotics with applications in reinforcement learning, artificial intelligence and robot vision.**
+
 
 Interested in collaboration? Feel free to email me at yash DOT shukla AT tufts DOT edu
