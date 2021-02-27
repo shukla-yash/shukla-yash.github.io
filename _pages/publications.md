@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+*2020:*
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Yash Shukla, Gyan Tatiya and Jivko Sinapov
+A Framework for Curriculum Transfer from Simple to Complex Environments
+Under review at International Joint Conference on Artificial Intelligence (IJCAI) 2021.
+
+*2019:*
+
+Gyan Tatiya,Yash Shukla, Michael Edegware and Jivko Sinapov
+Haptic Knowledge Transfer Between HeterogeneousRobots using Kernel Manifold Alignment
+n proceedings of the IEEE/RSJ International Conference on Intelligent Robotsand Systems (IROS), Las Vegas, USA (Virtual), October25-29, 2020
