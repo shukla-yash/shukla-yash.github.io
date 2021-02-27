@@ -17,4 +17,4 @@ My primary focus of interest lies in applications of Reinforcement Learning and 
 <b> I'm on the job market for a summer research internship in robotics with applications in reinforcement learning, artificial intelligence and robot vision. </b>
 
 
-Interested in collaboration? Feel free to email me at yash DOT shukla AT tufts DOT edu
+Interested in collaboration? Email me at yash DOT shukla AT tufts DOT edu
