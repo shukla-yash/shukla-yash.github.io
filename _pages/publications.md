@@ -18,7 +18,7 @@ RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-
 * - Denotes equal contribution
 
 <b> Yash Shukla </b>, Christopher Thierauf, Ramtin Hosseini, Gyan Tatiya and Jivko Sinapov <br>
-ACuTE: Automatic Curriculum Transfer from Simple to Complex Environments[PDF](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf)<br>
+ACuTE: Automatic Curriculum Transfer from Simple to Complex Environments [PDF](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf)<br>
 <i> To appear in Proceedings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Online, 2022. </i>
 
 
