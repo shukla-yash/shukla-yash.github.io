@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For a more up-to-date list of my projects, please see the publications page
+
 Grasp Synthesis by employing active vision techniques
 ------
 It fascinates me how something as fundamental as manipulation and grasping can be difficult for robots. For this, I aspire to pioneer innovative techniques that would facilitate smarter decision making for dextrous robotic manipulation. As a first step towards this goal, I have been working with Professor Berk Calli, WPI in the Manipulation laboratory for the past eight months. The research problem that I have been working on is utilizing active vision techniques to make a manipulator explore an object in the fewest number of steps possible. The aim is to obtain a rich enough pointcloud data to grasp an object.
