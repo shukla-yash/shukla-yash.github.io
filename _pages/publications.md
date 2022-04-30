@@ -15,8 +15,8 @@ RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-
 
 
 <b> Yash Shukla </b>, Kaleb Loar, Robert Wright, Jivko Sinapov <br>
-An Object-Oriented Approach for Generating Low-Fidelity Environments for Curriculum Schema Transfer [PDF](http://shukla-yash.github.io/files/LF_Generation_SRL.pdf)<br><br> 
-<i> To appear at the Scaling Robot Learning Workshop at International Conference on Robotics and Automation (ICRA), 2022. </i>
+An Object-Oriented Approach for Generating Low-Fidelity Environments for Curriculum Schema Transfer [PDF](http://shukla-yash.github.io/files/LF_Generation_SRL.pdf)<br>
+ <i> To appear at the Scaling Robot Learning Workshop at International Conference on Robotics and Automation (ICRA), 2022. </i>
 
 
 <b> Yash Shukla </b>, Christopher Thierauf, Ramtin Hosseini, Gyan Tatiya and Jivko Sinapov <br>
