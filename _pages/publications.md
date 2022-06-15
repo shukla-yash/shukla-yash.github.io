@@ -10,7 +10,7 @@ author_profile: true
 
 Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivko Sinapov [PDF](http://shukla-yash.github.io/files/_ICDL_22__RAPid_Learn_ICDL_22.pdf)<br>
 RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments.<br>
-To appear in Proceedings of International Conference on Development and Learning (ICDL), 2022 </i>  
+<i> To appear in Proceedings of International Conference on Development and Learning (ICDL), 2022 </i>  
 *Denotes equal contribution
 
 
