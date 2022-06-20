@@ -8,6 +8,12 @@ author_profile: true
 
 <b> 2022: </b>
 
+
+<b> Yash Shukla </b>, Jivko Sinapov <br>
+A Framework for Curriculum Schema Transfer from Low-Fidelity to High-Fidelity Environments<br>
+ <i>To appear in Proceedings of the 3rd Workshop on Closing the Reality Gap in Sim2Real Transfer for Robotics at Robotics: Science and Systems (RSS), 2022. </i>
+
+
 Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivko Sinapov [PDF](http://shukla-yash.github.io/files/Rapid_learn.pdf)<br>
 RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments.<br>
 <i> To appear in Proceedings of International Conference on Development and Learning (ICDL), 2022 </i>  
