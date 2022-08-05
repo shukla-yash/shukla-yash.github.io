@@ -16,7 +16,7 @@ A Framework for Curriculum Schema Transfer from Low-Fidelity to High-Fidelity En
 
 Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivko Sinapov <br>
 RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments.<br>
-<i> To appear in Proceedings of International Conference on Development and Learning (ICDL), 2022 </i> 
+<i> To appear in Proceedings of International Conference on Development and Learning (ICDL), 2022 </i> <br>
 *Denotes equal contribution <br>
 [[PDF]](http://shukla-yash.github.io/files/Rapid_learn.pdf)
 
