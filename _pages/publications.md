@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-<b> Conferences </b>
+<b> Conference papers </b>
 
 Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivko Sinapov <br>
 RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments.<br>
@@ -28,7 +28,7 @@ Haptic Knowledge Transfer Between Heterogeneous Robots using Kernel Manifold Ali
 
 
 
-<b> Peer-reviewed Workshops </b>
+<b> Peer-reviewed Workshop papers </b>
 
 <b> Yash Shukla </b>, Jivko Sinapov <br>
 A Framework for Curriculum Schema Transfer from Low-Fidelity to High-Fidelity Environments<br>
