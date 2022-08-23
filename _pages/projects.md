@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-For a more up-to-date list of my projects, please see the publications page
+Below is a list of projects I worked on during my Masters in Robotics Engineering at WPI.
+ 
+For a more up-to-date list of my projects, please see the [publications](https://yshukla.com//publications/) page
 
 Grasp Synthesis by employing active vision techniques
 ------
