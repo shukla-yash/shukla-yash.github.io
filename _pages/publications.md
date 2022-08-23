@@ -9,14 +9,14 @@ author_profile: true
 <b> Conference papers </b>
 
 Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivko Sinapov <br>
-RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments.<br>
+RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments. (Oral Presentation)<br>
 <i> To appear in Proceedings of International Conference on Development and Learning (ICDL), 2022 </i> <br>
 *Denotes equal contribution <br>
 [[PDF]](http://shukla-yash.github.io/files/Rapid_learn.pdf)
 
 
 <b> Yash Shukla </b>, Christopher Thierauf, Ramtin Hosseini, Gyan Tatiya and Jivko Sinapov <br>
-ACuTE: Automatic Curriculum Transfer from Simple to Complex Environments <br>
+ACuTE: Automatic Curriculum Transfer from Simple to Complex Environments (Oral Presentation) <br>
 <i> In Proceedings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Online, 2022. </i> <br>
 [[PDF]](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) [[VIDEO]](https://www.youtube.com/watch?v=QkRdRV-b2EQ&t=1s)
 
