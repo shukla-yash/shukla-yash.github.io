@@ -11,7 +11,7 @@ author_profile: true
 
 <b> Yash Shukla </b>, Jivko Sinapov <br>
 A Framework for Curriculum Schema Transfer from Low-Fidelity to High-Fidelity Environments<br>
- <i>To appear in Proceedings of the 3rd Workshop on Closing the Reality Gap in Sim2Real Transfer for Robotics at Robotics: Science and Systems (RSS), 2022. </i><br>
+ <i>In Proceedings of the 3rd Workshop on Closing the Reality Gap in Sim2Real Transfer for Robotics at Robotics: Science and Systems (RSS), 2022. </i><br>
 [[PDF]](http://shukla-yash.github.io/files/Sim2Real_RSS.pdf)
 
 Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivko Sinapov <br>
