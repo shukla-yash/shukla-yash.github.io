@@ -11,7 +11,7 @@ author_profile: true
 <b> Yash Shukla </b>, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
 Automaton-guided Curriculum Generation for Reinforcement Learning Agents <br>
 <i> To appear in Proceedings of International Conference on Automated Planning and Scheduling (ICAPS), Prague, 2023. </i> <br>
-(PDF and Video coming soon)
+[[PDF]](http://shukla-yash.github.io/files/icaps-paper.pdf)
 
 Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivko Sinapov <br>
 RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments. (Oral Presentation)<br>
