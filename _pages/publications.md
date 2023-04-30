@@ -33,7 +33,11 @@ Haptic Knowledge Transfer Between Heterogeneous Robots using Kernel Manifold Ali
 
 
 
-<b> Peer-reviewed Workshop papers </b>
+<b> Peer-reviewed Workshop papers / Doctoral Consortiums </b>
+
+<b> Yash Shukla </b> <br>
+Towards Cross-Domain Knowledge Transfer for Robotics<br>
+ <i>In Proceedings of the ICAPS Doctoral Consortium, 2023. </i><br>
 
 <b> Yash Shukla </b>, Jivko Sinapov <br>
 A Framework for Curriculum Schema Transfer from Low-Fidelity to High-Fidelity Environments<br>
