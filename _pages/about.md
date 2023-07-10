@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<b> Update - Looking for Summer Internship - 2023. </b>
-
 I am a third-year graduate student pursuing PhD in [Computer Science](https://engineering.tufts.edu/cs/) at the [MuLIP Lab](https://mulip.cs.tufts.edu/),  [Tufts University](https://www.tufts.edu/), MA, advised by [Prof. Jivko Sinapov](https://www.eecs.tufts.edu/~jsinapov/). Prior to joining Tufts, I obtained my Masters in [Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering) from [Worcester Polytechnic Institute](https://www.wpi.edu/). My research interests lie broadly in the fields of Robotics, Computer Vision and Reinforcement Learning for solving real world problems.
 
 Current techniques to achieve autonomy rely heavily on availability of large sample size, which is unrealistic in most settings. 
