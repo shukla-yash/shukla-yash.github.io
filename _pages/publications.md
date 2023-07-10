@@ -8,6 +8,13 @@ author_profile: true
 
 <b> Conference papers </b>
 
+
+<b> Yash Shukla </b>, Bharat Kesari, Shivam Goel, Robert Wright and Jivko Sinapov <br>
+A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning <br>
+<i> To appear in Proceedings of International Conference on Intelligent Robotsand Systems (IROS), Detroit, 2023. </i> <br>
+[PDF Coming Soon]
+
+
 <b> Yash Shukla </b>, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
 Automaton-guided Curriculum Generation for Reinforcement Learning Agents <br>
 <i> To appear in Proceedings of International Conference on Automated Planning and Scheduling (ICAPS), Prague, 2023. </i> <br>
