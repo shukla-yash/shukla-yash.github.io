@@ -30,7 +30,7 @@ Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivk
 [ACuTE: Automatic Curriculum Transfer from Simple to Complex Environments (Oral Presentation)](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) <br>
 <b> Yash Shukla </b>, Christopher Thierauf, Ramtin Hosseini, Gyan Tatiya and Jivko Sinapov <br>
 <i> International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Online, 2022. </i> <br>
-[[PDF]](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) | [[VIDEO]](https://www.youtube.com/watch?v=QkRdRV-b2EQ&t=1s) | [[Git]](https://github.com/tufts-ai-robotics-group/ACuTE)
+[[PDF]](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) | [[Video]](https://www.youtube.com/watch?v=QkRdRV-b2EQ&t=1s) | [[Git]](https://github.com/tufts-ai-robotics-group/ACuTE)
 
 
 [Haptic Knowledge Transfer Between Heterogeneous Robots using Kernel Manifold Alignment](http://shukla-yash.github.io/files/IROS_2020.pdf) <br>
