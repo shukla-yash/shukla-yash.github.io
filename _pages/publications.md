@@ -31,8 +31,9 @@ Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivk
 <i> International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Online, 2022. </i> <br>
 [[PDF]](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) | [[VIDEO]](https://www.youtube.com/watch?v=QkRdRV-b2EQ&t=1s) | [[Git]](https://github.com/tufts-ai-robotics-group/ACuTE)
 
-[Gyan Tatiya, <b>Yash Shukla</b>, Michael Edegware and Jivko Sinapov](http://shukla-yash.github.io/files/IROS_2020.pdf) <br>
-Haptic Knowledge Transfer Between Heterogeneous Robots using Kernel Manifold Alignment <br>
+
+[Haptic Knowledge Transfer Between Heterogeneous Robots using Kernel Manifold Alignment](http://shukla-yash.github.io/files/IROS_2020.pdf) <br>
+Gyan Tatiya, <b>Yash Shukla</b>, Michael Edegware and Jivko Sinapov <br>
 <i>International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA (Virtual), 2020
 </i> <br>
 [[PDF]](http://shukla-yash.github.io/files/IROS_2020.pdf) | [[Git]](https://github.com/gtatiya/Haptic-Knowledge-Transfer-KEMA) 
@@ -44,14 +45,16 @@ Haptic Knowledge Transfer Between Heterogeneous Robots using Kernel Manifold Ali
 Towards Cross-Domain Knowledge Transfer for Robotics<br>
  <i>In Proceedings of the ICAPS Doctoral Consortium, 2023. </i><br>
 
+
+[A Framework for Curriculum Schema Transfer from Low-Fidelity to High-Fidelity Environments](http://shukla-yash.github.io/files/Sim2Real_RSS.pdf)<br>
 <b> Yash Shukla </b>, Jivko Sinapov <br>
-A Framework for Curriculum Schema Transfer from Low-Fidelity to High-Fidelity Environments<br>
  <i>In Proceedings of the 3rd Workshop on Closing the Reality Gap in Sim2Real Transfer for Robotics at Robotics: Science and Systems (RSS), 2022. </i><br>
 [[PDF]](http://shukla-yash.github.io/files/Sim2Real_RSS.pdf)
 
+
+[An Object-Oriented Approach for Generating Low-Fidelity Environments for Curriculum Schema Transfer](https://yshukla.com/files/LF_Generation_SRL.pdf) <br>
 <b> Yash Shukla </b>, Kaleb Loar, Robert Wright, Jivko Sinapov <br>
-An Object-Oriented Approach for Generating Low-Fidelity Environments for Curriculum Schema Transfer <br>
- <i> In Proceedings of the Scaling Robot Learning Workshop at International Conference on Robotics and Automation (ICRA), 2022. </i> <br>
+ <i> Scaling Robot Learning Workshop at International Conference on Robotics and Automation (ICRA), 2022. </i> <br>
 [[PDF]](http://shukla-yash.github.io/files/LF_Generation_SRL.pdf)
 
 
