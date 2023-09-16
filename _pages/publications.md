@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
+
 [A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning](http://shukla-yash.github.io/files/IROS_23.pdf) <br>
 <b> Yash Shukla </b>, Bharat Kesari, Shivam Goel, Robert Wright and Jivko Sinapov <br>
 <i> International Conference on Intelligent Robots and Systems (IROS), Detroit, 2023. </i> <br>
@@ -39,16 +40,18 @@ Gyan Tatiya, <b>Yash Shukla</b>, Michael Edegware and Jivko Sinapov <br>
 [[PDF]](http://shukla-yash.github.io/files/IROS_2020.pdf) | [[Git]](https://github.com/gtatiya/Haptic-Knowledge-Transfer-KEMA) 
 
 
+
 <b> Peer-reviewed Workshop papers / Doctoral Consortiums </b>
 
-<b> Yash Shukla </b> <br>
+
 Towards Cross-Domain Knowledge Transfer for Robotics<br>
- <i>In Proceedings of the ICAPS Doctoral Consortium, 2023. </i><br>
+<b> Yash Shukla </b> <br>
+ <i>ICAPS Doctoral Consortium, 2023. </i><br>
 
 
 [A Framework for Curriculum Schema Transfer from Low-Fidelity to High-Fidelity Environments](http://shukla-yash.github.io/files/Sim2Real_RSS.pdf)<br>
 <b> Yash Shukla </b>, Jivko Sinapov <br>
- <i>In Proceedings of the 3rd Workshop on Closing the Reality Gap in Sim2Real Transfer for Robotics at Robotics: Science and Systems (RSS), 2022. </i><br>
+ <i>The 3rd Workshop on Closing the Reality Gap in Sim2Real Transfer for Robotics at Robotics: Science and Systems (RSS), 2022. </i><br>
 [[PDF]](http://shukla-yash.github.io/files/Sim2Real_RSS.pdf)
 
 
