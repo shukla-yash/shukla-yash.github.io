@@ -6,7 +6,24 @@ author_profile: true
 ---
 {% include base_path %}
 
+<!-- <span style="font-size:12pt;"> <sup>*</sup> indicates equal contribution. </span> -->
 
+---
+
+**[askdhjsadk](../_publications/)**
+
+CF<sup>\*</sup>, **AB**<sup>\*</sup>, and JH<br><span style="font-size:12pt">Under review at </span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+
+[Read More](../broken_link) \| [Paper](https://arxiv.org/) \| [Videos](https://tinyurl.com/)
+
+<img 
+src="/images/DL_project.png" 
+width=600 
+style="float: right; margin-left: 10px; margin-right: 10px;">
+
+Testing
+
+---
 
 <b> Yash Shukla </b>, Bharat Kesari, Shivam Goel, Robert Wright and Jivko Sinapov <br>
 A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning <br>
