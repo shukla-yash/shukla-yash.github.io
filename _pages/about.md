@@ -31,7 +31,9 @@ redirect_from:
 
 - Neurosymbolic AI, Robotics, Reinforcement Learning, Computer Vision
 
-Current RL techniques aimed towards achieving autonomy rely heavily on availability of large sample size, which is unrealistic in most settings. To tackle these problems, I intend to combine symbolic information as efficiently as possible to aid learning in artifical agents.  
+Current RL techniques aimed towards achieving autonomy rely heavily on availability of large sample size, which is unrealistic in most settings. To tackle these problems, I intend to combine symbolic information as efficiently as possible to aid learning in artifical agents. 
+
+
 Please  visit my [Publications](https://yshukla.com//publications/) page for up-to-date information on my ongoing research.
 
 
