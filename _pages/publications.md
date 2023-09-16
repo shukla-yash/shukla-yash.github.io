@@ -6,35 +6,36 @@ author_profile: true
 ---
 {% include base_path %}
 
+
+[A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning](http://shukla-yash.github.io/files/IROS_23.pdf) <br>
 <b> Yash Shukla </b>, Bharat Kesari, Shivam Goel, Robert Wright and Jivko Sinapov <br>
-A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning <br>
-<i> To appear in Proceedings of International Conference on Intelligent Robotsand Systems (IROS), Detroit, 2023. </i> <br>
-[[PDF]](http://shukla-yash.github.io/files/IROS_23.pdf)
+<i> International Conference on Intelligent Robots and Systems (IROS), Detroit, 2023. </i> <br>
+[[PDF]](http://shukla-yash.github.io/files/IROS_23.pdf) | [[Video]]([http://shukla-yash.github.io/files/IROS_23.pdf](https://youtu.be/hM3LeOyo8Fw?si=EvfzmfHuTgsBVAc7)) | [[Git]](https://github.com/shukla-yash/Few-Shot-Policy-Transfer)
 
 
+[Automaton-guided Curriculum Generation for Reinforcement Learning Agents](http://shukla-yash.github.io/files/icaps-paper.pdf) <br>
 <b> Yash Shukla </b>, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
-Automaton-guided Curriculum Generation for Reinforcement Learning Agents <br>
-<i> To appear in Proceedings of International Conference on Automated Planning and Scheduling (ICAPS), Prague, 2023. </i> <br>
-[[PDF]](http://shukla-yash.github.io/files/icaps-paper.pdf)
+<i> 33rd International Conference on Automated Planning and Scheduling (ICAPS), Prague, 2023. </i> <br>
+[[PDF]](http://shukla-yash.github.io/files/icaps-paper.pdf) | [[Git]](https://github.com/tufts-ai-robotics-group/Automaton-guided-CL)
 
+
+[RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments. (Oral Presentation)](http://shukla-yash.github.io/files/Rapid_learn.pdf)<br>
 Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivko Sinapov <br>
-RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments. (Oral Presentation)<br>
-<i> To appear in Proceedings of International Conference on Development and Learning (ICDL), 2022 </i> <br>
+<i> International Conference on Development and Learning (ICDL), London, 2022 </i> <br>
 *Denotes equal contribution <br>
-[[PDF]](http://shukla-yash.github.io/files/Rapid_learn.pdf)
+[[PDF]](http://shukla-yash.github.io/files/Rapid_learn.pdf) | [[Git]](https://github.com/goelshivam1210/RAPid-Learn)
 
 
+[ACuTE: Automatic Curriculum Transfer from Simple to Complex Environments (Oral Presentation)](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) <br>
 <b> Yash Shukla </b>, Christopher Thierauf, Ramtin Hosseini, Gyan Tatiya and Jivko Sinapov <br>
-ACuTE: Automatic Curriculum Transfer from Simple to Complex Environments (Oral Presentation) <br>
-<i> In Proceedings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Online, 2022. </i> <br>
-[[PDF]](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) [[VIDEO]](https://www.youtube.com/watch?v=QkRdRV-b2EQ&t=1s)
+<i> International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Online, 2022. </i> <br>
+[[PDF]](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) | [[VIDEO]](https://www.youtube.com/watch?v=QkRdRV-b2EQ&t=1s) | [[Git]](https://github.com/tufts-ai-robotics-group/ACuTE)
 
-Gyan Tatiya, <b>Yash Shukla</b>, Michael Edegware and Jivko Sinapov <br>
+[Gyan Tatiya, <b>Yash Shukla</b>, Michael Edegware and Jivko Sinapov](http://shukla-yash.github.io/files/IROS_2020.pdf) <br>
 Haptic Knowledge Transfer Between Heterogeneous Robots using Kernel Manifold Alignment <br>
-<i>In proceedings of the IEEE/RSJ International Conference on Intelligent Robotsand Systems (IROS), Las Vegas, USA (Virtual), 2020
+<i>International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA (Virtual), 2020
 </i> <br>
-[[PDF]](http://shukla-yash.github.io/files/IROS_2020.pdf)
-
+[[PDF]](http://shukla-yash.github.io/files/IROS_2020.pdf) | [[Git]](https://github.com/gtatiya/Haptic-Knowledge-Transfer-KEMA) 
 
 
 <b> Peer-reviewed Workshop papers / Doctoral Consortiums </b>
