@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "Yash Shukla"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
