@@ -22,7 +22,7 @@ redirect_from:
 
 - *2014-2018* - Bachelors in Mechanical Engineering, [BITS Pilani](https://www.bits-pilani.ac.in/) 
 
-- *Spring 2018* - Internship at Center for AI and Robotics, Bangalore
+- *Spring 2018* - Internship at Centre for AI and Robotics, Bangalore
 
 
 
