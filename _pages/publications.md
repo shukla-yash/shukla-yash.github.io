@@ -11,7 +11,7 @@ author_profile: true
 [A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning](http://shukla-yash.github.io/files/IROS_23.pdf) <br>
 <b> Yash Shukla </b>, Bharat Kesari, Shivam Goel, Robert Wright and Jivko Sinapov <br>
 <i> International Conference on Intelligent Robots and Systems (IROS), Detroit, 2023. </i> <br>
-[[PDF]](http://shukla-yash.github.io/files/IROS_23.pdf) | [[Video]]([http://shukla-yash.github.io/files/IROS_23.pdf](https://youtu.be/hM3LeOyo8Fw?si=EvfzmfHuTgsBVAc7)) | [[Git]](https://github.com/shukla-yash/Few-Shot-Policy-Transfer)
+[[PDF]](http://shukla-yash.github.io/files/IROS_23.pdf) | [[Video]](https://youtu.be/hM3LeOyo8Fw?si=EvfzmfHuTgsBVAc7) | [[Git]](https://github.com/shukla-yash/Few-Shot-Policy-Transfer)
 
 
 [Automaton-guided Curriculum Generation for Reinforcement Learning Agents](http://shukla-yash.github.io/files/icaps-paper.pdf) <br>
