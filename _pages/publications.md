@@ -10,9 +10,9 @@ author_profile: true
 <b> Yash Shukla </b>, Wenchang Gao, Vasanth Sarathy, Alvaro Velasquez, Robert Wright and Jivko Sinapov <br>
 [[arXiv]](https://arxiv.org/abs/2310.09454)
 
-[AgTS: Automaton-Guided Dynamic Task Sampling for Reinforcement Learning Agents](http://shukla-yash.github.io/files/IROS_23.pdf)<br>
+[AgTS: Automaton-Guided Dynamic Task Sampling for Reinforcement Learning Agents](http://shukla-yash.github.io/files/AGTS.pdf)<br>
 <b> Yash Shukla </b>, Wenchang Gao, Vasanth Sarathy, Alvaro Velasquez, Robert Wright and Jivko Sinapov <br>
-[[PDF]](http://shukla-yash.github.io/files/IROS_23.pdf)
+[[PDF]](http://shukla-yash.github.io/files/AGTS.pdf)
 
 [A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning](http://shukla-yash.github.io/files/IROS_23.pdf) <br>
 <b> Yash Shukla </b>, Bharat Kesari, Shivam Goel, Robert Wright and Jivko Sinapov <br>
