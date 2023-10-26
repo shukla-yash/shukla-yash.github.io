@@ -12,13 +12,15 @@ redirect_from:
 
 - *2020 - Current* - Fourth year PhD Student in [Computer Science](https://engineering.tufts.edu/cs/) advised by [Prof. Jivko Sinapov](https://www.eecs.tufts.edu/~jsinapov/).
 
+- *Oct 2023 - Apr 2024* - Research Intern, [Mitsubishi Electric Research Labs](https://www.merl.com/), hosted by [Siddarth Jain](https://www.merl.com/people/sjain)
+
 - *Fall 2023* - Instructor for [Reinforcement Learning at Tufts University](https://www.eecs.tufts.edu/~jsinapov/teaching/comp138_RL_Fall2023/)
 
-- *Summer 2022* - Research Internship, Georgia Tech Research Institute, advised by [Robert Wright](https://scholar.google.com/citations?user=v89BX9oAAAAJ&hl=en)
+- *Summer 2022* - Research Internship, [Georgia Tech Research Institute](https://gtri.gatech.edu/), hosted by [Robert Wright](https://scholar.google.com/citations?user=v89BX9oAAAAJ&hl=en)
 
 - *2018 - 2020* - [Masters in Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering) at [Worcester Polytechnic Institute](https://www.wpi.edu/)
 
-- *Summer 2019* - Internship at Computer Vision Group, MathWorks
+- *Summer 2019* - Internship at [Computer Vision Group](https://www.mathworks.com/products/computer-vision.html), [MathWorks](https://www.mathworks.com/)
 
 - *2014-2018* - Bachelors in Mechanical Engineering, [BITS Pilani](https://www.bits-pilani.ac.in/) 
 
