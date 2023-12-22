@@ -6,13 +6,22 @@ author_profile: true
 ---
 {% include base_path %}
 
-[LgTS: Dynamic Task Sampling using LLM-generated sub-goals for Reinforcement Learning Agents](https://arxiv.org/pdf/2310.09454.pdf)<br>
-<b> Yash Shukla </b>, Wenchang Gao, Vasanth Sarathy, Alvaro Velasquez, Robert Wright and Jivko Sinapov <br>
-[[arXiv]](https://arxiv.org/abs/2310.09454)
+**PrePrints**
 
 [AgTS: Automaton-Guided Dynamic Task Sampling for Reinforcement Learning Agents](http://shukla-yash.github.io/files/AGTS.pdf)<br>
 <b> Yash Shukla </b>, Tanushree Burman, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
 [[PDF]](http://shukla-yash.github.io/files/AGTS.pdf)
+
+
+**Accepted/Published Papers**
+
+
+[LgTS: Dynamic Task Sampling using LLM-generated sub-goals for Reinforcement Learning Agents](https://arxiv.org/pdf/2310.09454.pdf)<br>
+<b> Yash Shukla </b>, Wenchang Gao, Vasanth Sarathy, Alvaro Velasquez, Robert Wright and Jivko Sinapov <br>
+<i> International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Auckland, NZ, 2024. </i> <br>
+[[preprint arXiv]](https://arxiv.org/abs/2310.09454) | Camera-ready version coming soon
+
+
 
 [A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning](http://shukla-yash.github.io/files/IROS_23.pdf) <br>
 <b> Yash Shukla </b>, Bharat Kesari, Shivam Goel, Robert Wright and Jivko Sinapov <br>
