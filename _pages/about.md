@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About
+**About**
 
 - *2020 - Current* - Fourth year PhD Student in [Computer Science](https://engineering.tufts.edu/cs/) advised by [Prof. Jivko Sinapov](https://www.eecs.tufts.edu/~jsinapov/).
 
@@ -26,10 +26,10 @@ redirect_from:
 
 - *Spring 2018* - Internship at Centre for AI and Robotics, Bangalore
 
+---
 
 
-## Research Interests
-
+**Research Interests**
 
 - Neurosymbolic AI, Robotics, Reinforcement Learning, Computer Vision
 
@@ -38,5 +38,14 @@ Current RL techniques aimed towards achieving autonomy rely heavily on availabil
 
 Please  visit my [Publications](https://yshukla.com//publications/) page for up-to-date information on my ongoing research.
 
+
+---
+
+**News**
+
+Our paper on LLM-guided Dynamic Task Sampling for RL agents accepted at [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz/)!
+
+---
+**Contact**
 
 Feel free to reach out to me at yash DOT shukla AT tufts DOT edu
