@@ -18,39 +18,39 @@ author_profile: true
 
 [LgTS: Dynamic Task Sampling using LLM-generated sub-goals for Reinforcement Learning Agents](https://arxiv.org/pdf/2310.09454.pdf)<br>
 <b> Yash Shukla </b>, Wenchang Gao, Vasanth Sarathy, Alvaro Velasquez, Robert Wright and Jivko Sinapov <br>
-<i> International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Auckland, NZ, 2024. </i> <br>
+<i> International Conference on Autonomous Agents and Multiagent Systems **(AAMAS)**, Auckland, NZ, 2024. </i> <br>
 [[preprint arXiv]](https://arxiv.org/abs/2310.09454) | Camera-ready version coming soon
 
 
 
 [A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning](http://shukla-yash.github.io/files/IROS_23.pdf) <br>
 <b> Yash Shukla </b>, Bharat Kesari, Shivam Goel, Robert Wright and Jivko Sinapov <br>
-<i> International Conference on Intelligent Robots and Systems (IROS), Detroit, 2023. </i> <br>
+<i> International Conference on Intelligent Robots and Systems **(IROS)**, Detroit, 2023. </i> <br>
 [[PDF]](http://shukla-yash.github.io/files/IROS_23.pdf) | [[Video]](https://youtu.be/hM3LeOyo8Fw?si=EvfzmfHuTgsBVAc7) | [[Git]](https://github.com/shukla-yash/Few-Shot-Policy-Transfer)
 
 
 [Automaton-guided Curriculum Generation for Reinforcement Learning Agents](http://shukla-yash.github.io/files/icaps-paper.pdf) <br>
 <b> Yash Shukla </b>, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
-<i> 33rd International Conference on Automated Planning and Scheduling (ICAPS), Prague, 2023. </i> <br>
+<i> 33rd International Conference on Automated Planning and Scheduling **(ICAPS)**, Prague, 2023. </i> <br>
 [[PDF]](http://shukla-yash.github.io/files/icaps-paper.pdf) | [[Git]](https://github.com/tufts-ai-robotics-group/Automaton-guided-CL)
 
 
 [RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments. (Oral Presentation)](http://shukla-yash.github.io/files/Rapid_learn.pdf)<br>
 Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivko Sinapov <br>
-<i> International Conference on Development and Learning (ICDL), London, 2022 </i> <br>
+<i> International Conference on Development and Learning **(ICDL)**, London, 2022 </i> <br>
 *Denotes equal contribution <br>
 [[PDF]](http://shukla-yash.github.io/files/Rapid_learn.pdf) | [[Git]](https://github.com/goelshivam1210/RAPid-Learn)
 
 
 [ACuTE: Automatic Curriculum Transfer from Simple to Complex Environments (Oral Presentation)](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) <br>
 <b> Yash Shukla </b>, Christopher Thierauf, Ramtin Hosseini, Gyan Tatiya and Jivko Sinapov <br>
-<i> International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Online, 2022. </i> <br>
+<i> International Conference on Autonomous Agents and Multiagent Systems **(AAMAS)**, Online, 2022. </i> <br>
 [[PDF]](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) | [[Video]](https://www.youtube.com/watch?v=QkRdRV-b2EQ&t=1s) | [[Git]](https://github.com/tufts-ai-robotics-group/ACuTE)
 
 
 [Haptic Knowledge Transfer Between Heterogeneous Robots using Kernel Manifold Alignment](http://shukla-yash.github.io/files/IROS_2020.pdf) <br>
 Gyan Tatiya, <b>Yash Shukla</b>, Michael Edegware and Jivko Sinapov <br>
-<i>International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA (Virtual), 2020
+<i>International Conference on Intelligent Robots and Systems **(IROS)**, Las Vegas, USA (Virtual), 2020
 </i> <br>
 [[PDF]](http://shukla-yash.github.io/files/IROS_2020.pdf) | [[Git]](https://github.com/gtatiya/Haptic-Knowledge-Transfer-KEMA) 
 
