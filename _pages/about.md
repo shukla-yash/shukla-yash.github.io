@@ -17,7 +17,7 @@ redirect_from:
 
 - *Oct 2023 - Apr 2024* - Research Intern, [Mitsubishi Electric Research Labs](https://www.merl.com/), hosted by [Siddarth Jain](https://www.merl.com/people/sjain)
 
-- *Spring 2024* - Instructor for [Reinforcement Learning at Tufts University](https://www.eecs.tufts.edu/~jsinapov/teaching/comp138_RL_Fall2023/)
+- *Spring 2024* - Instructor for [Reinforcement Learning at Tufts University](http://www.cs.tufts.edu/comp/138/)
 
 **Previous**
 
