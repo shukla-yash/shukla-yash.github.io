@@ -38,10 +38,11 @@ redirect_from:
 
 **Research Interests**
 
-- Neurosymbolic AI, Robotics, Reinforcement Learning, Computer Vision
+- Neurosymbolic AI, Robotics, Reinforcement Learning, Computer Vision, Foundational Models (LLMs, VLMs)
 
-Current RL techniques aimed towards achieving autonomy rely heavily on availability of large sample size, which is unrealistic in most settings. To tackle these problems, I intend to combine symbolic information as efficiently as possible to aid learning in artifical agents. 
+Current Reinforcement Learning techniques aimed towards achieving autonomy rely heavily on availability of large sample size, which is unrealistic in most settings. To tackle these problems, I intend to abstract symbolic information (obtained from Linear Temporal Logic, Large Language Models, Planning domain languages, etc.) and utilize it to enhance the learning progress of the RL agent. 
 
+Most applications of my work are directed toward Robotics and Robot Learning.
 
 Please  visit my [Publications](https://yshukla.com//publications/) page for up-to-date information on my ongoing research.
 
