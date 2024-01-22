@@ -73,6 +73,7 @@ Towards Cross-Domain Knowledge Transfer for Robotics<br>
 [An Object-Oriented Approach for Generating Low-Fidelity Environments for Curriculum Schema Transfer](https://yshukla.com/files/LF_Generation_SRL.pdf) <br>
 <b> Yash Shukla </b>, Kaleb Loar, Robert Wright, Jivko Sinapov <br>
  <i> Scaling Robot Learning Workshop at International Conference on Robotics and Automation (ICRA), 2022. </i> <br>
+ [PDF](http://shukla-yash.github.io/files/LF_Generation_SRL.pdf){: .btn--pdf} 
 [[PDF]](http://shukla-yash.github.io/files/LF_Generation_SRL.pdf)
 
 
