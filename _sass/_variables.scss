@@ -91,6 +91,10 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $info-color;
+$link-color-webpage         : #3c256b;
+$link-color-arxiv           : #6b2531;
+$link-color-git             : #181f0b;
+$link-color-video           : #546b25;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
