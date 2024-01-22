@@ -98,17 +98,17 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.125em 0.25em;
-  color: $link-color;
+  color: $link-color-git;
   text-align: center;
   text-decoration: none !important;
   border: 1px solid;
-  border-color: $link-color;
+  border-color: $link-color-git;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
     color: #fff;
-    background-color: $link-color !important;
+    background-color: $link-color-git !important;
   }
 }
 
@@ -116,17 +116,17 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.125em 0.25em;
-  color: $link-color;
+  color: $link-color-video;
   text-align: center;
   text-decoration: none !important;
   border: 1px solid;
-  border-color: $link-color;
+  border-color: $link-color-video;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
     color: #fff;
-    background-color: $link-color !important;
+    background-color: $link-color-video !important;
   }
 }
 
@@ -134,17 +134,17 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.125em 0.25em;
-  color: $link-color;
+  color: $link-color-webpage;
   text-align: center;
   text-decoration: none !important;
   border: 1px solid;
-  border-color: $link-color;
+  border-color: $link-color-webpage;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
     color: #fff;
-    background-color: $link-color !important;
+    background-color: $link-color-webpage !important;
   }
 }
 
@@ -152,17 +152,17 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.125em 0.25em;
-  color: $link-color;
+  color: $link-color-arxiv;
   text-align: center;
   text-decoration: none !important;
   border: 1px solid;
-  border-color: $link-color;
+  border-color: $link-color-arxiv;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
     color: #fff;
-    background-color: $link-color !important;
+    background-color: $link-color-arxiv !important;
   }
 }
    
