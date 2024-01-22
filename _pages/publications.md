@@ -10,7 +10,7 @@ author_profile: true
 
 [AgTS: Automaton-Guided Dynamic Task Sampling for Reinforcement Learning Agents](http://shukla-yash.github.io/files/AGTS.pdf)<br>
 <b> Yash Shukla </b>, Tanushree Burman, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
-[[PDF]](http://shukla-yash.github.io/files/AGTS.pdf)
+[PDF](http://shukla-yash.github.io/files/AGTS.pdf){: .btn--pdf}
 
 
 **Accepted/Published Papers**
@@ -19,27 +19,25 @@ author_profile: true
 [LgTS: Dynamic Task Sampling using LLM-generated sub-goals for Reinforcement Learning Agents](https://arxiv.org/pdf/2310.09454.pdf)<br>
 <b> Yash Shukla </b>, Wenchang Gao, Vasanth Sarathy, Alvaro Velasquez, Robert Wright and Jivko Sinapov <br>
 <i> International Conference on Autonomous Agents and Multiagent Systems **(AAMAS)**, Auckland, NZ, 2024. </i> <br>
-[[preprint arXiv]](https://arxiv.org/abs/2310.09454) | Camera-ready version coming soon
-
+[ArXiv](https://arxiv.org/abs/2310.09454){: .btn--arxiv} | Camera-ready version coming soon
 
 
 [A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning](http://shukla-yash.github.io/files/IROS_23.pdf) <br>
 <b> Yash Shukla </b>, Bharat Kesari, Shivam Goel, Robert Wright and Jivko Sinapov <br>
 <i> International Conference on Intelligent Robots and Systems **(IROS)**, Detroit, 2023. </i> <br>
-[[PDF]](http://shukla-yash.github.io/files/IROS_23.pdf) | [[Video]](https://youtu.be/hM3LeOyo8Fw?si=EvfzmfHuTgsBVAc7) | [[Git]](https://github.com/shukla-yash/Few-Shot-Policy-Transfer)
-
+[PDF](http://shukla-yash.github.io/files/IROS_23.pdf){: .btn--pdf} [Git](https://github.com/shukla-yash/Few-Shot-Policy-Transfer){: .btn--git} [Video](https://youtu.be/hM3LeOyo8Fw?si=EvfzmfHuTgsBVAc7){: .btn--video}
 
 [Automaton-guided Curriculum Generation for Reinforcement Learning Agents](http://shukla-yash.github.io/files/icaps-paper.pdf) <br>
 <b> Yash Shukla </b>, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
 <i> 33rd International Conference on Automated Planning and Scheduling **(ICAPS)**, Prague, 2023. </i> <br>
-[[PDF]](http://shukla-yash.github.io/files/icaps-paper.pdf) | [[Git]](https://github.com/tufts-ai-robotics-group/Automaton-guided-CL)
+[PDF](http://shukla-yash.github.io/files/icaps-paper.pdf){: .btn--pdf} [Git](https://github.com/tufts-ai-robotics-group/Automaton-guided-CL){: .btn--git}
 
 
 [RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments. (Oral Presentation)](http://shukla-yash.github.io/files/Rapid_learn.pdf)<br>
 Shivam Goel*, <b> Yash Shukla* </b>, Vasanth Sarathy, Matthias Scheutz, and Jivko Sinapov <br>
 <i> International Conference on Development and Learning **(ICDL)**, London, 2022 </i> <br>
 *Denotes equal contribution <br>
-[[PDF]](http://shukla-yash.github.io/files/Rapid_learn.pdf) | [[Git]](https://github.com/goelshivam1210/RAPid-Learn)
+[PDF](http://shukla-yash.github.io/files/Rapid_learn.pdf){: .btn--pdf} [Git](https://github.com/goelshivam1210/RAPid-Learn){: .btn--git}
 
 
 [ACuTE: Automatic Curriculum Transfer from Simple to Complex Environments (Oral Presentation)](http://shukla-yash.github.io/files/ACuTE_AAMAS_2022.pdf) <br>
