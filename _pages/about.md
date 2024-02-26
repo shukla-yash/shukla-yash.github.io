@@ -40,13 +40,13 @@ redirect_from:
 
 My research interests can broadly be categorized as follows:
 
-- Foundational Models (LLMs / VLMs) : Leveraging LLMs / VLMs to improve sample efficiency of RL agents _and_ embodied robotic agents.
+- **Foundational Models (LLMs / VLMs):** Leveraging LLMs / VLMs to improve sample efficiency of RL agents _and_ embodied robotic agents.
 
-- Neurosymbolic AI: Using temporal logical specifications and planning domains to improve learning progress of RL agents. 
+- **Neurosymbolic AI:** Using temporal logical specifications and planning domains to improve learning progress of RL agents. 
 
-- Curriculum Learning for RL: Coming up with efficient representations to break down complex RL task into simpler sequenatial and graphical task representations that improve the learning progress of RL agents.
+- **Curriculum Learning for RL:** Coming up with efficient representations to break down complex RL task into simpler sequenatial and graphical task representations that improve the learning progress of RL agents.
 
-- CV and Robotics: Understanding and analyzing human intent using CV (Images, Videos, Depth) and natural language for efficient human-robot collaboration.
+- **CV and Robotics:** Understanding and analyzing human intent using CV (Images, Videos, Depth) and natural language for efficient human-robot collaboration.
 
 Most applications of my work are directed toward Robotics and Robot Learning.
 
