@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-**Accepted/Published Papers****
+**Accepted / Published Papers**
 
 [Logical Specifications-guided Dynamic Task Sampling for Reinforcement Learning Agents](https://arxiv.org/abs/2402.03678)<br>
 <b> Yash Shukla </b>, Tanushree Burman, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
