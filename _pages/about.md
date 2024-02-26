@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**About**
+**Actively searching for summer internships in the ML / CV / LLM / Robotics space**
 
 
 **Current**
