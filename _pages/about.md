@@ -48,6 +48,8 @@ My research interests can broadly be categorized as follows:
 
 - **CV and Robotics:** Understanding and analyzing human intent using CV (Images, Videos, Depth) and natural language for efficient human-robot collaboration.
 
+- **Sim2Real Transfer:** Transferring RL policies from Simulated environments to Physical robotic settings
+
 Most applications of my work are directed toward Robotics and Robot Learning.
 
 Please  visit my [Publications](https://yshukla.com//publications/) page for up-to-date information on my ongoing research.
@@ -57,7 +59,7 @@ Please  visit my [Publications](https://yshukla.com//publications/) page for up-
 
 **News**
 
-**[Feb 2024]**  Our paper on Logical Specifications-guided Dynamic Task Sampling for RL agents accepted at [ICAPS 2024](https://icaps23.icaps-conference.org/)!
+**[Feb 2024]**  Our paper on Logical Specifications-guided Dynamic Task Sampling for RL agents accepted at [ICAPS 2024](https://icaps24.icaps-conference.org/)!
 
 **[Dec 2023]**  Our paper on LLM-guided Dynamic Task Sampling for RL agents accepted at [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz/)!
 
