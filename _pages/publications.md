@@ -6,14 +6,12 @@ author_profile: true
 ---
 {% include base_path %}
 
-**PrePrints**
+**Accepted/Published Papers****
 
-[AgTS: Automaton-Guided Dynamic Task Sampling for Reinforcement Learning Agents](http://shukla-yash.github.io/files/AGTS.pdf)<br>
+[Logical Specifications-guided Dynamic Task Sampling for Reinforcement Learning Agents](https://arxiv.org/abs/2402.03678)<br>
 <b> Yash Shukla </b>, Tanushree Burman, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
-[PDF](http://shukla-yash.github.io/files/AGTS.pdf){: .btn--pdf}
-
-
-**Accepted/Published Papers**
+<i> International Conference on Automated Planning and Scheduling **(ICAPS)**, Banff, Alberta, 2024. </i> <br>
+[ArXiv](https://arxiv.org/abs/2402.03678){: .btn--arxiv} | Camera-ready version coming soon
 
 
 [LgTS: Dynamic Task Sampling using LLM-generated sub-goals for Reinforcement Learning Agents](https://arxiv.org/pdf/2310.09454.pdf)<br>
