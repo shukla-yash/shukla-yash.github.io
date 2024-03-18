@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Actively searching for summer internships in the ML / CV / LLM / Robotics space**
-
+**Update: I have concluded my intternship search. Thank you for reaching out with such great opportunities!**
 
 **Current**
 
