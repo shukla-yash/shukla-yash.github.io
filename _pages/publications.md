@@ -54,6 +54,11 @@ Gyan Tatiya, <b>Yash Shukla</b>, Michael Edegware and Jivko Sinapov <br>
 <b> Peer-reviewed Workshop papers / Doctoral Consortiums </b>
 
 
+Formal and Natural Language assisted Curriculum Generation for Reinforcement Learning Agents<br>
+<b> Yash Shukla </b> <br>
+ <i>AAMAS Doctoral Consortium, 2024. </i><br>
+
+
 Towards Cross-Domain Knowledge Transfer for Robotics<br>
 <b> Yash Shukla </b> <br>
  <i>ICAPS Doctoral Consortium, 2023. </i><br>
