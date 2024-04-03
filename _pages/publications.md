@@ -11,7 +11,7 @@ author_profile: true
 [Logical Specifications-guided Dynamic Task Sampling for Reinforcement Learning Agents](https://arxiv.org/abs/2402.03678)<br>
 <b> Yash Shukla </b>, Tanushree Burman, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
 <i> International Conference on Automated Planning and Scheduling **(ICAPS)**, Banff, Alberta, 2024. </i> <br>
-[ArXiv](https://arxiv.org/abs/2402.03678){: .btn--arxiv} | Camera-ready version coming soon
+[ArXiv](https://arxiv.org/abs/2402.03678){: .btn--arxiv} | [Git](https://github.com/shukla-yash/lsts-icaps-24){: .btn--git}
 
 
 [LgTS: Dynamic Task Sampling using LLM-generated sub-goals for Reinforcement Learning Agents](https://arxiv.org/pdf/2310.09454.pdf)<br>
