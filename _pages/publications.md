@@ -8,6 +8,10 @@ author_profile: true
 
 **Accepted / Published Papers**
 
+Agent-Centric Human Demonstrations Train World Models<br>
+James Staley, Elaine Short, Shivam Goel, <b> Yash Shukla </b> <br>
+<i> To appear in proceedings of the first Reinforcement Learning Conference **(RLC)**, Amherst, Massachusetts, 2024. </i> <br>
+
 [Logical Specifications-guided Dynamic Task Sampling for Reinforcement Learning Agents](https://arxiv.org/abs/2402.03678)<br>
 <b> Yash Shukla </b>, Tanushree Burman, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
 <i> International Conference on Automated Planning and Scheduling **(ICAPS)**, Banff, Alberta, 2024. </i> <br>
