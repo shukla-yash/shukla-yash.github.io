@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-**Actively searching for summer internships in the ML / CV / LLM / Robotics space**
-
-**Update: I have concluded my summer internship search. Thank you for reaching out with such great opportunities!**
-
 **Current**
+
+- *Summer 2024* - Research Intern, [Autodesk Research](https://www.research.autodesk.com/), with the [Robotics Research Team](https://www.research.autodesk.com/research-areas/science/#robotics)
 
 - *2020 - Current* - Fourth year PhD Student in [Computer Science](https://engineering.tufts.edu/cs/) advised by [Prof. Jivko Sinapov](https://www.eecs.tufts.edu/~jsinapov/).
 
-- *Oct 2023 - Apr 2024* - Research Intern, [Mitsubishi Electric Research Labs](https://www.merl.com/), hosted by [Siddarth Jain](https://www.merl.com/people/sjain)
+
+**Previous**
 
 - *Spring 2024* - Instructor for [Reinforcement Learning at Tufts University](http://www.cs.tufts.edu/comp/138/)
 
-**Previous**
+- *Oct 2023 - Apr 2024* - Research Intern, [Mitsubishi Electric Research Labs](https://www.merl.com/), hosted by [Siddarth Jain](https://www.merl.com/people/sjain)
 
 - *Fall 2023* - Instructor for [Reinforcement Learning at Tufts University](https://www.eecs.tufts.edu/~jsinapov/teaching/comp138_RL_Fall2023/)
 
