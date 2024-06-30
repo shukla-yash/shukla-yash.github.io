@@ -59,6 +59,12 @@ Please  visit my [Publications](https://yshukla.com//publications/) page for up-
 
 **News**
 
+**[June 2024]**  Our papers on Autonomous Robotic Assembly and Goal-Conditioned Continual Learning for Open-World tasks accepted at [IROS 2024](https://iros2024-abudhabi.org/)!
+
+
+**[June 2024]**  Our paper on Agent-Centric Human Demonstrations for World Models accepted at [RLC 2024](https://rl-conference.cc/)!
+
+
 **[Feb 2024]**  Our paper on Logical Specifications-guided Dynamic Task Sampling for RL agents accepted at [ICAPS 2024](https://icaps24.icaps-conference.org/)!
 
 **[Dec 2023]**  Our paper on LLM-guided Dynamic Task Sampling for RL agents accepted at [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz/)!
