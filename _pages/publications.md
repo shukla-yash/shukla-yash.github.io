@@ -11,12 +11,12 @@ author_profile: true
 
 A Framework for Neurosymbolic Goal-Conditioned Continual Learning for Open World Environments <br>
 Pierrick Lorang*, Shivam Goel, <b> Yash Shukla </b>, Patrik Zips, Matthias Scheutz   <br>
-<i> To appear in proceedings of International Conference on Intelligent Robots and Systems **(IROS)**, Abu Dhabi, 2024. </i> <br> </i> <br>
+<i> To appear in proceedings of International Conference on Intelligent Robots and Systems **(IROS)**, Abu Dhabi, 2024. </i> <br>
 
 
 Autonomous Robotic Assembly: From Part Singulation to Precise Assembly<br>
 Kei Ota, Devesh Jha*, Siddarth Jain, William Yerazunis, Radu Corcodel, <b> Yash Shukla </b>, Antonia Bronars, Diego Romeres  <br>
-<i> To appear in proceedings of International Conference on Intelligent Robots and Systems **(IROS)**, Abu Dhabi, 2024. </i> <br> </i> <br>
+<i> To appear in proceedings of International Conference on Intelligent Robots and Systems **(IROS)**, Abu Dhabi, 2024. </i> <br>
 
 
 Agent-Centric Human Demonstrations Train World Models <br> 
