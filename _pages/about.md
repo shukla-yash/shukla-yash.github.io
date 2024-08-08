@@ -40,6 +40,8 @@ redirect_from:
 
 My research interests can broadly be categorized as follows:
 
+- **2D and 3D Generative AI:** Reconstructing the neural structure and generating 3D models from using different types of data.
+
 - **Foundational Models (LLMs / VLMs):** Leveraging LLMs / VLMs to improve sample efficiency of RL agents _and_ embodied robotic agents.
 
 - **Neurosymbolic AI:** Using temporal logical specifications and planning domains to improve learning progress of RL agents. 
