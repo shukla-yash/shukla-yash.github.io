@@ -10,12 +10,14 @@ redirect_from:
 
 **Current**
 
-- *Summer 2024* - Research Intern, [Autodesk Research](https://www.research.autodesk.com/), with the [Robotics Research Team](https://www.research.autodesk.com/research-areas/science/#robotics)
+- *Fall 2024* - Instructor for [Reinforcement Learning at Tufts University](http://www.cs.tufts.edu/comp/138/)
 
-- *2020 - Current* - Fourth year PhD Student in [Computer Science](https://engineering.tufts.edu/cs/) advised by [Prof. Jivko Sinapov](https://www.eecs.tufts.edu/~jsinapov/).
+- *2020 - Current* - Fifth year PhD Student in [Computer Science](https://engineering.tufts.edu/cs/) advised by [Prof. Jivko Sinapov](https://www.eecs.tufts.edu/~jsinapov/).
 
 
 **Previous**
+
+- *Summer 2024* - Research Intern, [Autodesk Research](https://www.research.autodesk.com/), with the [Robotics Research Team](https://www.research.autodesk.com/research-areas/science/#robotics)
 
 - *Spring 2024* - Instructor for [Reinforcement Learning at Tufts University](http://www.cs.tufts.edu/comp/138/)
 
@@ -40,6 +42,8 @@ redirect_from:
 
 My research interests can broadly be categorized as follows:
 
+- **Robot Manipulation:** - 6 DOF Grasp pose generation using Diffusion Modeling, Imitation Learning, Foundation Models for Robot Manipulation
+
 - **2D and 3D Generative AI:** Reconstructing the neural structure and generating 3D models from using different types of data.
 
 - **Foundational Models (LLMs / VLMs):** Leveraging LLMs / VLMs to improve sample efficiency of RL agents _and_ embodied robotic agents.
@@ -60,6 +64,7 @@ Please  visit my [Publications](https://yshukla.com//publications/) page for up-
 ---
 
 **News**
+
 
 **[June 2024]**  Our papers on Autonomous Robotic Assembly and Goal-Conditioned Continual Learning for Open-World tasks accepted at [IROS 2024](https://iros2024-abudhabi.org/)!
 
