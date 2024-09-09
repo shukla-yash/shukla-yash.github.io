@@ -9,20 +9,20 @@ author_profile: true
 **Accepted / Published Papers**
 
 
-A Framework for Neurosymbolic Goal-Conditioned Continual Learning for Open World Environments <br>
+[A Framework for Neurosymbolic Goal-Conditioned Continual Learning for Open World Environments](https://hrilab.tufts.edu/publications/lorangetal2024iros.pdf) <br>
 Pierrick Lorang, Shivam Goel, <b> Yash Shukla </b>, Patrik Zips, Matthias Scheutz   <br>
 <i> To appear in proceedings of International Conference on Intelligent Robots and Systems **(IROS)**, Abu Dhabi, 2024. </i> <br>
+[PDF](https://hrilab.tufts.edu/publications/lorangetal2024iros.pdf){: .btn--pdf}
 
-
-Autonomous Robotic Assembly: From Part Singulation to Precise Assembly<br>
+[Autonomous Robotic Assembly: From Part Singulation to Precise Assembly](https://arxiv.org/pdf/2406.05331)<br>
 Kei Ota, Devesh Jha, Siddarth Jain, William Yerazunis, Radu Corcodel, <b> Yash Shukla </b>, Antonia Bronars, Diego Romeres  <br>
 <i> To appear in proceedings of International Conference on Intelligent Robots and Systems **(IROS)**, Abu Dhabi, 2024. </i> <br>
+[PDF](https://arxiv.org/pdf/2406.05331){: .btn--pdf} [Video](https://www.youtube.com/watch?v=cZ9M1DQ23OI){: .btn--video}
 
-
-Agent-Centric Human Demonstrations Train World Models <br> 
-James Staley, Elaine Short, Shivam Goel, <b> Yash Shukla </b> <br>
-<i> To appear in proceedings of the first Reinforcement Learning Conference **(RLC)**, Amherst, Massachusetts, 2024. </i> <br> 
-
+[Agent-Centric Human Demonstrations Train World Models[(https://aabl.cs.tufts.edu/papers/rlc2024_james.pdf) <br> 
+James Staley, Shivam Goel, <b> Yash Shukla </b> , Elaine Short <br>
+<i> In proceedings of the first Reinforcement Learning Conference **(RLC)**, Amherst, Massachusetts, 2024. </i> <br> 
+[PDF](https://aabl.cs.tufts.edu/papers/rlc2024_james.pdf){: .btn--pdf}
 
 [Logical Specifications-guided Dynamic Task Sampling for Reinforcement Learning Agents](https://arxiv.org/abs/2402.03678)<br>
 <b> Yash Shukla </b>, Tanushree Burman, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov <br>
