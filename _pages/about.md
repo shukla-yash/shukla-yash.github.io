@@ -80,4 +80,4 @@ Please  visit my [Publications](https://yshukla.com//publications/) page for up-
 ---
 **Contact**
 
-Feel free to reach out to me at: *yash DOT shukla AT tufts DOT edu*
+Feel free to reach out to me at: *yashs2810 AT gmail DOT com*
