@@ -10,12 +10,13 @@ redirect_from:
 
 **Current**
 
-- *Fall 2024* - Instructor for [Reinforcement Learning at Tufts University](http://www.cs.tufts.edu/comp/138/)
-
-- *2020 - Current* - Fifth year PhD Student in [Computer Science](https://engineering.tufts.edu/cs/) advised by [Prof. Jivko Sinapov](https://www.eecs.tufts.edu/~jsinapov/).
-
+- *April 2025 - Current* - Senior Software Engineer at [Berkshire Grey](https://www.berkshiregrey.com/) working on robot learning for bimanipulation robotic arms 
 
 **Previous**
+
+- *2020 - 2025* - Recent PhD grad in [Computer Science](https://engineering.tufts.edu/cs/) advised by [Prof. Jivko Sinapov](https://www.eecs.tufts.edu/~jsinapov/).
+
+- *Fall 2024* - Instructor for [Reinforcement Learning at Tufts University](http://www.cs.tufts.edu/comp/138/)
 
 - *Summer 2024* - Research Intern, [Autodesk Research](https://www.research.autodesk.com/), with the [Robotics Research Team](https://www.research.autodesk.com/research-areas/science/#robotics)
 
