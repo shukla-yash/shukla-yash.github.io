@@ -11,6 +11,6 @@ redirect_from:
 
 Email is the best way to contact me. 
 
-My email ID is: yash DOT shukla AT tufts DOT edu
+My email ID is: yashs2810 AT gmail DOT edu
 
 Or, feel free to [drop me a message on LinkedIn](https://www.linkedin.com/in/yashshukla/)
